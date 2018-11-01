@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541078844 source:d:\ishan\programs\ds\trappedrainwater\main.c
+	<stdio.h>
+	<stdlib.h>
+
